@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Models**
 
-- 🌱 I’m currently learning **everything 😎**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **ML & AI**
 

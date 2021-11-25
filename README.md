@@ -42,7 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=captalpha&show_icons=true&locale=en&layout=compact&theme=radical" alt="captalpha" /></p>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/arhitbosetagore/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/arhitbosetagore/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/arhitbosetagore/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/arhitbosetagore/discussion)
 

@@ -48,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=captalpha&show_icons=true&locale=en&theme=radical" alt="captalpha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captalpha&theme=radical" alt="captalpha" /></p>
-
+![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 [![Arhit's github activity graph](https://activity-graph.herokuapp.com/graph?username=captalpha&theme=rogue)](https://github.com/captalpha/github-readme-activity-graph)
 

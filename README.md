@@ -1,27 +1,116 @@
-# 💫 About Me:
-👋 Hello there! I'm Arhit Bose Tagore, a passionate Software Engineer with a strong background in computer science and technology. 💻 I have a Bachelor's degree in Computer Science and Technology from Vellore Institute of Technology<br><br>🎓 Throughout my education, I've gained expertise in various areas including Operating Systems, Data Structures and Algorithms, Machine Learning, Networking and Communication, and Deep Learning. I'm skilled in programming languages such as Python, C, C++, JavaScript, SQL, Bash, and Java.<br><br>🌟 My journey as a developer has led me to explore a wide range of frameworks and tools. I've worked with frameworks like Scikit, NLTK, TensorFlow, Keras, Django, Flask, and NodeJS. Additionally, I'm proficient in using Docker, GIT, AWS, PostgreSQL, MySQL, SQLite, and MongoDB.<br><br>🏆 I take pride in my achievements, such as securing 1st place in the Devspace hackathon by CSI and ranking 24th out of 2300+ submissions with 2 Gold Medals in the AI Blitz Challenge. I've also been recognized as a Kaggle 2x Expert, contributing to kernels and discussions that garnered over 200+ upvotes and winning multiple medals.<br><br>🌟 In addition to my professional pursuits, I actively volunteer my technical skills as the Technical Head of VinnovateIT, where we develop applications with 15,000+ downloads on the PlayStore. I'm also an enthusiastic contributor on Kaggle, engaging in the community and sharing my knowledge.<br><br>✨ I'm excited to collaborate, learn, and grow as a developer. Feel free to reach out to me at arhitbt@gmail.com. Let's create something amazing together! ✨
+# 💫 About Me
 
+👋 Hi, I'm **Arhit Bose Tagore**, a dedicated and growth-focused **Software Engineer** from Bengaluru, India.  
+I specialize in building **robust backend systems**, designing **scalable cloud-native applications**, and applying **AI/ML solutions** to solve real-world problems. I’m passionate about writing clean, efficient code and developing resilient systems that perform under scale.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arhit.bosetagore.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arhit._.t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arhit) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BoseArhit) 
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CaptAlpha&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CaptAlpha&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptAlpha&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 Expertise
+
+With a strong academic foundation from **Vellore Institute of Technology**, where I graduated with distinction in Computer Science & Engineering (CGPA: 9.19/10), I've built deep expertise in:
+
+- 🔄 **Backend Engineering & Microservices**  
+  Proficient in building distributed backend systems using `Java`, `Spring Boot`, `Flask`, and `Node.js`, with extensive experience in microservice orchestration using `Docker` and `Kubernetes`.
+
+- ☁️ **Cloud Infrastructure & DevOps**  
+  Skilled in deploying scalable solutions using both `Google Cloud Platform (GCP)` and `AWS`, including services like `GKE`, `Cloud Functions`, `Lambda`, and automated CI/CD pipelines.
+
+- 📊 **Observability & Performance Engineering**  
+  Deeply familiar with system monitoring, logging, and tracing tools (`Prometheus`, `ELK Stack`, `Grafana`, `Micrometer`), ensuring high reliability and performance of production systems.
+
+- 🧠 **AI & Machine Learning**  
+  Experienced in building intelligent applications using `TensorFlow`, `PyTorch`, `Scikit-learn`, and `LangChain`, with published research in malware analysis using ML/DL models.
+
+- 🔒 **System Design & Architecture**  
+  Well-versed in designing stateless/stateful services, RESTful APIs, distributed architecture, and implementing best practices in system scalability, observability, and resiliency.
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages**  
+`Python` `Java` `C++` `C` `JavaScript` `Bash` `PHP` `MATLAB`
+
+**Frameworks / Libraries**  
+`Spring Boot` `Flask` `Django` `TensorFlow` `PyTorch` `Keras` `Scikit-learn`  
+`React` `Node.js` `LangChain` `WebSockets` `OpenAI API`
+
+**Cloud & DevOps**  
+`GCP (GKE, GCE, GCS, Logs Explorer)`  
+`AWS (Lambda, API Gateway, CloudFormation, S3, DynamoDB)`  
+`Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions`
+
+**Databases**  
+`MySQL` `MongoDB` `Firebase` `ChromaDB`
+
+**Tools**  
+`Git` `Postman` `Micrometer` `JMeter` `Prometheus` `Grafana` `Groq`
+
+---
+
+## 💼 Professional Experience
+
+I’ve worked with leading global technology organizations including **Sabre Corporation** and **Coforge**, where I’ve contributed to high-impact systems across aviation, cloud services, and enterprise tooling. My roles have involved:
+- Leading backend engineering for large-scale systems
+- Participating in performance optimization and cloud migration initiatives
+- Contributing to DevOps practices and reliability engineering
+- Collaborating across teams to drive innovation and delivery
+
+I bring a blend of **technical depth**, **problem-solving acumen**, and a **focus on collaboration**, helping teams ship faster and smarter.
+
+---
+
+## 📈 Highlights
+
+- 🥇 **1st Prize – Sabre Intern Bootcamp Hackathon (2024)**  
+- 🥉 **2nd Runner-Up – Cognition Hackathon, VIT (2022)**  
+- 🥇 **2× Gold Medalist – AI Blitz Challenge (Top 24 of 2300+ participants)**  
+- 📄 **Published Author – IJESDF Journal on Android Malware Detection**  
+  [DOI: 10.1504/IJESDF.2024.142013](https://doi.org/10.1504/IJESDF.2024.142013)
+
+---
+
+## 🧠 Certifications
+
+- **AWS Certified Cloud Practitioner**  
+- **AWS Academy Cloud Foundations**  
+- **Machine Learning Pipelines with Azure ML Studio**
+
+---
+
+## 🧪 Open Source & Research
+
+I'm passionate about contributing to open source and research. My work in applied AI, cloud-native systems, and automation tools reflects my continuous drive to learn, build, and share with the tech community.
+
+I actively engage on **Kaggle** as a 2× Expert and contribute to **AI-powered developer tools**. I also volunteer my skills through developer communities and lead technical initiatives that promote innovation.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=CaptAlpha&theme=tokyonight&show_icons=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=CaptAlpha&theme=tokyonight)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaptAlpha&layout=compact&theme=tokyonight)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CaptAlpha&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=BoseArhit)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://github-profile-trophy.vercel.app/?username=CaptAlpha&theme=gruvbox&margin-w=8&no-frame=true)
 
-### ✍️ Random Dev Quote
+---
+
+## 📬 Let's Connect
+
+📧 **Email:** arhitbt@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/arhit) • [GitHub](https://github.com/CaptAlpha) • [Twitter](https://twitter.com/BoseArhit)
+
+---
+
+## ✨ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CaptAlpha&icon=6&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=CaptAlpha&icon=6&color=0)
